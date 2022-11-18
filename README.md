@@ -1,4 +1,4 @@
-### Decorators
+# Decorators
 
 ## What is a decorator?
 - A function that takes another function
